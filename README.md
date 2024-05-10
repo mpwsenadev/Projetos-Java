@@ -1,6 +1,6 @@
 # Java-Projects-Hub
 
-![Java Projects Hub Banner](https://media.licdn.com/dms/image/C5612AQFpNwLlIZrYnw/article-cover_image-shrink_600_2000/0/1647628723533?e=2147483647&v=beta&t=QoRkFi6twqNs4dzAvkwJOHyHgcrJz-1u74IJWo6p2pc)
+![Java Projects Hub Banner](https://assets-global.website-files.com/62e2573821100dba34dd0985/64f85a7b173d1ee5be13476a_java_banner%20(1).webp)
 
 Welcome to the Java Projects Hub! This repository serves as a centralized resource for Java enthusiasts of all levels. Whether you're a beginner looking to learn Java or an experienced developer seeking new challenges, you'll find a diverse range of projects to explore and contribute to.
 
