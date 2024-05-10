@@ -8,13 +8,7 @@ Olá, seja bem-vindo ao meu repositório de projetos em Java! Aqui, compartilho 
 
 Este repositório contém uma coleção de projetos que eu desenvolvo para aprimorar minhas habilidades em Java. Desde aplicações simples até projetos mais complexos, cada um representa um desafio e uma oportunidade de aprendizado.
 
-## Objetivos
-
-- **Aprendizado Contínuo**: Busco explorar diferentes conceitos e técnicas da linguagem Java através do desenvolvimento de projetos práticos.
-- **Desenvolvimento Profissional**: Procuro manter um alto padrão de qualidade em meus projetos, aplicando boas práticas de programação e design.
-- **Compartilhamento de Conhecimento**: Este repositório serve não apenas como um espaço pessoal de estudo, mas também como uma fonte de referência e inspiração para outros desenvolvedores.
-
-## Como Contribuir
+## Como contribuir?
 
 Como este é um projeto pessoal, não estou aceitando contribuições externas no momento. No entanto, sinta-se à vontade para explorar os projetos, fazer fork do repositório e adaptar os códigos conforme suas necessidades.
 
