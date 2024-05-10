@@ -1,6 +1,6 @@
 # Java-Projects-Hub
 
-![Java Projects Hub Banner](https://www.stylus.co.za/wp-content/uploads/2022/12/java-banner.png)
+![Java Projects Hub Banner](https://media.licdn.com/dms/image/C5612AQFpNwLlIZrYnw/article-cover_image-shrink_600_2000/0/1647628723533?e=2147483647&v=beta&t=QoRkFi6twqNs4dzAvkwJOHyHgcrJz-1u74IJWo6p2pc)
 
 Welcome to the Java Projects Hub! This repository serves as a centralized resource for Java enthusiasts of all levels. Whether you're a beginner looking to learn Java or an experienced developer seeking new challenges, you'll find a diverse range of projects to explore and contribute to.
 
