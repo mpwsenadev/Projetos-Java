@@ -2,7 +2,7 @@
 
 ![Java Projects Hub Banner](https://assets-global.website-files.com/62e2573821100dba34dd0985/64f85a7b173d1ee5be13476a_java_banner%20(1).webp)
 
-Olá, seja bem-vindo ao meu repositório de projetos em Java! Aqui, compartilho uma jornada pessoal de desenvolvimento e estudo dedicada à linguagem Java.
+---
 
 ## Sobre
 
