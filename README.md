@@ -1,4 +1,4 @@
-# Projetos em Java
+# Projetos Java
 
 ![Java Projects Hub Banner](https://assets-global.website-files.com/62e2573821100dba34dd0985/64f85a7b173d1ee5be13476a_java_banner%20(1).webp)
 
